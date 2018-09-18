@@ -1,0 +1,26 @@
+    Instance Name   			 	 		   Status
+-----------------------------	 	 		-------------------
+https://adtba05.accenture.com/jazz/web			ok
+https://adtba06.accenture.com/jazz/web			ok
+https://adtjazz2037.accenture.com/rdm/web			ok
+https://adtjazz1070.accenture.com/ccm/web			500 - Error
+https://adtjazz1072.accenture.com/jazz/web			ok
+https://adtjazz1055.accenture.com/jazz/web			ok
+https://adtjazz1055.accenture.com/rqm/web			ok
+https://adtjazz3009.accenture.com/jazz/web			ok
+https://adtjazz3009.accenture.com/rm/web			ok
+https://adtjazzhof1027.accenture.com/jazz/web			ok
+https://clm.bdc6.aess.accenture.com/ccm1/web			ok
+https://clm.bdc6.aess.accenture.com/qm1/web			ok
+https://adtjazzhof1034.accenture.com/ccm/web			ok
+https://adtjazzhof1020.accenture.com/jazz/web			ok
+https://adtjazzhof1020.accenture.com/rqm/web			ok
+https://adtjazzff3001.accenture.com/jazz/web			ok
+https://adtjazzbg3043.accenture.com/jazz/web			ok
+https://adtjazz1039.accenture.com/jazz/web/console			ok
+https://adtjazzman3024.accenture.com/jazz/web/console			ok
+https://adtjazzhof3042.accenture.com/jazz/web/console			ok
+https://adtjazzman3028.accenture.com/jazz/web/console			ok
+https://adtjazz1041.accenture.com/jazz/web/console			ok
+https://adtjazz3064.accenture.com/jazz/web/console			ok
+https://adtjazz1032.accenture.com/jazz/web/console			ok
